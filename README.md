@@ -27,7 +27,3 @@ Below is some information about the current version of the project, and see you 
 ### About
 
 > Date: August 18, 2023.
-Version: 1.0.0-SNAPSHOT.
-Author: Matheus Ferreira Santos.
-E-Mail: matheus.fs.contato@gmail.com (drop me an email 🙂)
-Language: Java (JSP/Servlet)
